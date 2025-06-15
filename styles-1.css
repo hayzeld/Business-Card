@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+ 
+}
+.profile-image {
+    width: 150px; 
+    border-radius: 40%; 
+}
+.card{
+   width: 400px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0 auto;
+    color: #2b2839;
+    background-color: #90e0ef;
+    border-bottom: #d8cefe solid 6px;
+   
+
+   
+}
+.blue-dotted{
+    border: 1px blue dotted;
+   
+}
+.description{
+    font-size: 14px;
+    color: #333;
+    margin-top: 10px;
+}
